@@ -1,16 +1,28 @@
-## Hi there 👋
+## Where to find me
 
-<!--
-**dikxzstrdigital/dikxzstrdigital** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/dikxzstrdigital)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AGENCSSERVICES)
 
-Here are some ideas to get you started:
+<h2 align="center">🔨 Languages, Frameworks & Tools 🔨</h2>
+<br>
+<div align="center">
+    <a href="https://github.com/0xStryK3R?tab=repositories&language=python" target="_blank"><img alt="Python" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>
+    <a href="https://github.com/0xStryK3R?tab=repositories&language=java" target="_blank"><img alt="Java" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"></a>
+    <img alt="Django" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+    <img alt="Flask" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
+    <img alt="Spring" height ="36px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg'>
+    <img alt="PostgreSQL" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+    <img alt="MySQL" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+    <img alt="MongoDB" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+    <img alt="Redis" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">
+    <img alt="Oracle" height ="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My github stats 
+<p align="center">
+    <img
+        width="52%"
+        src="https://github-readme-stats.vercel.app/api?username=dikxzstrdigital&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&custom_title=GitHub+Stats"
+    />
+</p>
+
+<h3>
