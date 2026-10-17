@@ -1,7 +1,7 @@
 ## Where to find me
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/dikxzstrdigital)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AGENCSSERVICES)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dikz4you01)
 
 <h2 align="center">🔨 Languages, Frameworks & Tools 🔨</h2>
 <br>
